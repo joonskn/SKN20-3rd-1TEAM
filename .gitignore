@@ -55,14 +55,6 @@ logs/
 *.log
 log.txt
 
-# Data files
-data/raw/*.json
-data/raw/*.csv
-data/processed/*.json
-data/processed/*.csv
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-
 # OS files
 .DS_Store
 Thumbs.db
